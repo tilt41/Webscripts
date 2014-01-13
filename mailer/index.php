@@ -1,3 +1,4 @@
+<!-- This is the html needed for the mailer script -->
 <html>
  
 <head>
